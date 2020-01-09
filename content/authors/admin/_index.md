@@ -37,7 +37,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F43Cgb1xfYTq1-l7rH0U-_yiU0_Tm8aHyHtEI1IAAn_cu73wZeYWO5w5yR1Bfy-DGJVrrHEirJMDvhfwlQ5Mjgsbf4vQg&user=IhZphuQAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sandrafogg
 superuser: true
 user_groups:
 - Researchers
